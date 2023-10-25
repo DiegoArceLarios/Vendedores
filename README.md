@@ -1,2 +1,1 @@
-# Vendedores
-Un app de ventas
+# practicaClase71
